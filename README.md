@@ -19,8 +19,10 @@ If you haven't installed Python yet, follow these steps:
 4. Follow the installation wizard's instructions and complete the installation process.
 
 ### Step 2: Download and Extract the Code
-1. Clone or download this repository to your local machine.
-2. Extract the downloaded zip file to your desired location.
+1. download this file to your local machine by below 👇 button.
+<p align="center">
+   <a href="https://github.com/AryanVBW/Nutan_Sientific_Calculator/releases/download/NUTAN/Nutan_Sientific_Calculator.zip"><img src="https://github.com/AryanVBW/Myimage/releases/download/m2/25860-7-download-now-button-glossy-green.png" height="" alt="vivek wagadare"></a></p>
+3. Extract the downloaded zip file to your desired location.
 
 ### Step 3: Run the Code
 1. Open the command prompt.
