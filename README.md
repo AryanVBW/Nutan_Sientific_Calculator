@@ -1,6 +1,6 @@
 # Scientific Calculator using Python 🧮
 
-Welcome to our project repository for the Scientific Calculator developed by Nutan Ghode and team for D.Y. Patil Engineering College, Talegav.
+Welcome to our project repository for the Scientific Calculator developed by Nutan Ghode and team for D.Y. Patil Engineering College, Talegav Scientific Calculator project .
 
 ## About
 This project is aimed at creating a scientific calculator using Python. It includes various mathematical functions and operations to assist users in solving complex calculations efficiently.
