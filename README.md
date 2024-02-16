@@ -1,1 +1,41 @@
-# Nutan_Sientific_Calculator
+# Scientific Calculator using Python 🧮
+
+Welcome to our project repository for the Scientific Calculator developed by Nutan Ghode and team for D.Y. Patil Engineering College, Talegav.
+
+## About
+This project is aimed at creating a scientific calculator using Python. It includes various mathematical functions and operations to assist users in solving complex calculations efficiently.
+
+## How to Install
+Follow these simple steps to install and run the calculator on Windows:
+
+### Prerequisites
+- Python 3
+- windows/ linux computer or laptop 
+### Step 1: Install Python
+If you haven't installed Python yet, follow these steps:
+1. Visit the [Python official website](https://www.python.org/downloads/) to download the latest version of Python.
+2. Run the downloaded installer.
+3. During installation, make sure to check the box that says "Add Python to PATH" to easily run Python from the command line.
+4. Follow the installation wizard's instructions and complete the installation process.
+
+### Step 2: Download and Extract the Code
+1. Clone or download this repository to your local machine.
+2. Extract the downloaded zip file to your desired location.
+
+### Step 3: Run the Code
+1. Open the command prompt.
+2. Navigate to the directory where you extracted the code.
+3. Run the following command to execute the calculator:
+   ```
+   python3 calculator.py
+   ```
+
+## Contributors
+- Nutan Ghode
+- Team members of D.Y. Patil Engineering College, Talegav
+
+Feel free to contribute to this project by forking the repository and submitting pull requests.
+
+If you encounter any issues or have suggestions for improvements, please create an issue in the repository. We appreciate your feedback!
+
+Happy calculating! 🚀
