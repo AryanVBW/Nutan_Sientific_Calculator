@@ -5,10 +5,10 @@ Welcome to our project repository for the Scientific Calculator developed by Nut
 ## About
 This project is aimed at creating a scientific calculator using Python. It includes various mathematical functions and operations to assist users in solving complex calculations efficiently.
 
-## How to Install
+## How to Install✨
 Follow these simple steps to install and run the calculator on Windows:
 
-### Prerequisites
+### Prerequisites🖥️
 - Python 3
 - windows/ linux computer or laptop 
 ### Step 1: Install Python
@@ -29,7 +29,7 @@ If you haven't installed Python yet, follow these steps:
 2. Navigate to the directory where you extracted the code.
 3. Run the following command to execute the calculator:
    ```
-   python3 calculator.py
+   python calculator.py
    ```
 
 ## Contributors
